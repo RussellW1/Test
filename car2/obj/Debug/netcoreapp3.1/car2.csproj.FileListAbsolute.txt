@@ -1,0 +1,14 @@
+D:\Сашино не трогать\car2\car2\obj\Debug\netcoreapp3.1\car2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Сашино не трогать\car2\car2\obj\Debug\netcoreapp3.1\car2.AssemblyInfoInputs.cache
+D:\Сашино не трогать\car2\car2\obj\Debug\netcoreapp3.1\car2.AssemblyInfo.cs
+D:\Сашино не трогать\car2\car2\obj\Debug\netcoreapp3.1\car2.csproj.CoreCompileInputs.cache
+D:\Сашино не трогать\car2\car2\bin\Debug\netcoreapp3.1\car2.exe
+D:\Сашино не трогать\car2\car2\bin\Debug\netcoreapp3.1\car2.deps.json
+D:\Сашино не трогать\car2\car2\bin\Debug\netcoreapp3.1\car2.runtimeconfig.json
+D:\Сашино не трогать\car2\car2\bin\Debug\netcoreapp3.1\car2.runtimeconfig.dev.json
+D:\Сашино не трогать\car2\car2\bin\Debug\netcoreapp3.1\car2.dll
+D:\Сашино не трогать\car2\car2\bin\Debug\netcoreapp3.1\car2.pdb
+D:\Сашино не трогать\car2\car2\obj\Debug\netcoreapp3.1\car2.dll
+D:\Сашино не трогать\car2\car2\obj\Debug\netcoreapp3.1\car2.pdb
+D:\Сашино не трогать\car2\car2\obj\Debug\netcoreapp3.1\car2.genruntimeconfig.cache
+D:\Сашино не трогать\car2\car2\obj\Debug\netcoreapp3.1\car2.csproj.AssemblyReference.cache
